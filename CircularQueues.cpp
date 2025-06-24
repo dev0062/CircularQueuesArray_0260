@@ -19,9 +19,9 @@
  * 4. exit
  * 
  * @author Profil
- * - nama :
- * - nim : 
- * - kelas :
+ * - nama : Dev Alldino 
+ * - nim : 20240140260
+ * - kelas : F
  * 
  * @brief 
  * @version 0.1
